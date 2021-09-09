@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=RedmagicSmallWindowPatch
+name=解除红魔OS小窗模式限制
+version=v1
+versionCode=1
+author=hallo1
+description=解除小窗模式限制, 使绝大部分第三方应用可以在小窗模式下运行
+support=https://github.com/happyme531/RedmagicSmallWindowPatch
